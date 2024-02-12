@@ -1,3 +1,2 @@
-# Sol
+# SolAngel
 Plantilla para sitio sol angel
-# giorca 
